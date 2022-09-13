@@ -51,17 +51,17 @@ In a web browser, navigate to http://localhost:3000/shop_app to view the app.
 <h3>Unit Testing Instructions</h3>
     <hr>
         <h4>Testing making a new order:</h4>
-            Navigate to testing folder and run make_test_order.py
-            This should result in a order generated and will return "True" after reading the database and seeing the order in the order queue. Will return true or false and then delete the order from the queue.
-            (Additional instruction may be involved when development cycle happens)
+                > Navigate to testing folder and run make_test_order.py
+                This should result in a order generated and will return "True" after reading the database and seeing the order in the order queue. Will return true or false and then delete the order from the queue.
+                (Additional instruction may be involved when development cycle happens)
         <h4>Testing making a new manager:</h4>
-            Navigate to testing folder and run make_test_manager.py
-            This will return "True" after reading the database and seeing a new test manager added. Will delete the test manager after returning true or false so database is still accurate.
-            (Additional instruction may be involved when development cycle happens)
+                > Navigate to testing folder and run make_test_manager.py
+                This will return "True" after reading the database and seeing a new test manager added. Will delete the test manager after returning true or false so database is still accurate.
+                (Additional instruction may be involved when development cycle happens)
         <h4>Testing payroll:</h4>
-            Navigate to testing folder and run test_payroll.py
-            This will test payroll functionality in several steps including deducting payroll from manager account, zeroing the hours of employees, and making sure that all payrolls are properly saved as to be recalled on in case of failure. 
-            (Additional instruction may be involved when development cycle happens)
+                > Navigate to testing folder and run test_payroll.py
+                This will test payroll functionality in several steps including deducting payroll from manager account, zeroing the hours of employees, and making sure that all payrolls are properly saved as to be recalled on in case of failure. 
+                (Additional instruction may be involved when development cycle happens)
 
     
 
