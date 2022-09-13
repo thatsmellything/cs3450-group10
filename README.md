@@ -87,6 +87,7 @@ This will test payroll functionality in several steps including deducting payrol
 <h3>System Testing Instructions</h3>
 <hr>
 <h4>Test if server is on correct port and open</h4>
+<h5>Linux
 
 > bash $ sudo ss -tnlp || grep -m 1 -w -F '127.0.0.1:3000'
 
@@ -109,5 +110,10 @@ Open prefered web browser and type this into the search bar:
         "http://127.0.0.1:3000/shop_app/"
 
 Should result in the shop page.
+<hr>
+
+
+
+
 <h3>Other Development Notes</h3>
 <hr>
