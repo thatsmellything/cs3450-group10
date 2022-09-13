@@ -104,10 +104,10 @@ This should be the result:
 
 <h4>Check if server is serving files</h4>
 
-            Open prefered web browser and type this into the search bar:
+Open prefered web browser and type this into the search bar:
 
-            "http://127.0.0.1:3000/shop_app/"
+        "http://127.0.0.1:3000/shop_app/"
 
-            Should result in the shop page.
-    <h3>Other Development Notes</h3>
-    <hr>
+Should result in the shop page.
+<h3>Other Development Notes</h3>
+<hr>
