@@ -33,6 +33,10 @@ Clone the project in gitbash.
 
 > bash $ git clone https://github.com/Zachary-Harrison/cs3450-group10
 
+Install Django via pip3
+
+> bash $ sudo pip3 install django
+
 Navigate to the project sub-folder. 
 
 > bash $ cd app/cs3450_group10
